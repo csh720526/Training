@@ -11,7 +11,7 @@ namespace SampleNUnit.Example01
 {
     [TestFixture]
     [Category("Example01")]
-    public class QueryMemberTest
+    public class QueryMemberTestOld
     {
         private string con;
 
